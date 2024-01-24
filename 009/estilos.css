@@ -1,0 +1,20 @@
+*{
+    background: maroon;
+}
+
+p{
+    font-size: 10px;
+    color: blue;
+}
+li{
+    color: mediumaquamarine;
+}
+
+.titulo{
+    font-size: 40px;
+    color: violet;
+}
+#listona{
+    background: red;
+}
+
