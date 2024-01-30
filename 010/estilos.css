@@ -1,0 +1,25 @@
+div.aaa{
+    background: maroon;
+    
+}
+
+p, small{
+
+    background: yellow;
+    color: blue;
+}
+div li{
+    background: black;
+    color: mediumaquamarine;
+}
+
+
+
+.titulo{
+    font-size: 40px;
+    color: violet;
+}
+#listona{
+    background: red;
+}
+
