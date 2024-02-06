@@ -1,6 +1,12 @@
+body{
+    padding: 0px;
+    margin: 50px;
+}
+
 .navbar{
     background: darkslategray;
-    font-size: 20px;
+    font-size: 30px;
     color: cyan;
-    padding: 0px;
+    margin-top: 0px;
+    border: 10px solid darkcyan;
 }
