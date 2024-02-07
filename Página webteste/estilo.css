@@ -1,7 +1,12 @@
 * {
-background-color: cyan;
+background-image: url("1.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 padding: 0;
 margin: 0;
+color: lightblue;
+
 }
 
 .navbar{
